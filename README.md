@@ -14,3 +14,6 @@ A Java-based Online Quiz Application using Swing GUI.
 
 ## Author
 Deepika
+
+## Screenshot
+![Quiz App](quiz.png)
